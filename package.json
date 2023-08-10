@@ -1,0 +1,16 @@
+{
+    "name": "cocktails-api",
+    "version": "1.0.0",
+    "description": "Api para el sitio Que Trago Hacer?",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": ["api-cocktails"],
+    "author": "Isaias Garcia",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5"
+    },
+    "homepage": "https://github.com/isaico/cocktails-api#readme"
+}
